@@ -1,6 +1,6 @@
 # zealgame.com
 
-former home of my first game that people actually played
+former home of my first game that people actually played; now a static memorial page
 
 https://zealgame.com, https://www.zealgame.com, https://zealgame-com.pages.dev/
 
