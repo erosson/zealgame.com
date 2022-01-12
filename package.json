@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "serve public"
+    "start": "serve public",
+    "build": "true"
   },
   "devDependencies": {
     "serve": "^13.0.2"
